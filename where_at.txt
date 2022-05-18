@@ -1,0 +1,1 @@
+getting goodies using sp.search: https://stackoverflow.com/questions/39840319/spotipy-get-track-ids-from-track-names
